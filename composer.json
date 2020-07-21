@@ -1,5 +1,5 @@
 {
-  "name": "b-tokman/yii2-react",
+  "name": "vishuB/yii2-react",
   "description": "Yii 2 widget for server-side rendering ReactJs",
   "license": "MIT",
   "type": "yii2-extension",
@@ -9,8 +9,8 @@
     "yii2"
   ],
   "support": {
-    "issues": "https://github.com/bTokman/yii2-react/issues",
-    "source": "https://github.com/bTokman/yii2-react"
+    "issues": "https://github.com/vishuB/yii2-react/issues",
+    "source": "https://github.com/vishuB/yii2-react"
   },
   "require": {
     "php": ">=5.4.0",
@@ -38,13 +38,13 @@
   },
   "authors": [
     {
-      "name": "Bohdan Tokman",
-      "email": "bogdantokman@gmail.com"
+      "name": "Vishal Bhalodiya",
+      "email": "bhalodiyavishal46@gmail.com"
     }
   ],
   "autoload": {
     "psr-4": {
-      "bTokman\\react\\": "lib/"
+      "vishuB\\react\\": "lib/"
     }
   },
   "minimum-stability": "dev"
