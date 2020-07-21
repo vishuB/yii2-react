@@ -1,5 +1,5 @@
 {
-  "name": "vishuB/yii2-react",
+  "name": "vishub/yii2-react",
   "description": "Yii 2 widget for server-side rendering ReactJs",
   "license": "MIT",
   "type": "yii2-extension",
@@ -9,13 +9,13 @@
     "yii2"
   ],
   "support": {
-    "issues": "https://github.com/vishuB/yii2-react/issues",
-    "source": "https://github.com/vishuB/yii2-react"
+    "issues": "https://github.com/vishub/yii2-react/issues",
+    "source": "https://github.com/vishub/yii2-react"
   },
   "require": {
     "php": ">=5.4.0",
     "yiisoft/yii2": "~2",
-    "vishuB/react-php-v8js": "^2.0",
+    "vishub/react-php-v8js": "^2.0",
     "talyssonoc/php-babel-transpiler":"master",
     "koala-framework/composer-extra-assets": "~1.1"
   },
@@ -44,7 +44,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "vishuB\\react\\": "lib/"
+      "vishub\\react\\": "lib/"
     }
   },
   "minimum-stability": "dev"
