@@ -15,7 +15,7 @@
   "require": {
     "php": ">=5.4.0",
     "yiisoft/yii2": "~2",
-    "vishu-b/react-php-v8js": "dev-master",
+    "vishu-b/react-php-v8js": "master",
     "talyssonoc/php-babel-transpiler":"master",
     "koala-framework/composer-extra-assets": "~1.1"
   },
