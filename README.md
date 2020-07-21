@@ -32,12 +32,12 @@ This way composer will run browserify to create react-bundle.js and uglifyjs to 
 2. Then run 
 
 ```sh
-  $ composer require b-tokman/yii2-react
+  $ composer require vishu-b/yii2-react
 ```
 Composer will download yii2-react package with all dependenices, then npm will download react and react-dom npm packages and scripts will compile it.
  
 # Usage
-After the installation you'll be able to use the `bTokman\react\widgets\ReactRenderer` widget in your app.
+After the installation you'll be able to use the `vishuB\react\widgets\ReactRenderer` widget in your app.
 ```php
 ReactRenderer::widget([
     'componentsSourceJs' => <pathToYourComponentJsFile>,
