@@ -1,15 +1,15 @@
 <?php
 
 
-namespace bTokman\react\widgets;
+namespace vishuB\react\widgets;
 
 
 use ReactJS;
 use Yii;
 use yii\base\Widget;
 use yii\web\NotFoundHttpException;
-use bTokman\react\ReactAsset;
-use bTokman\react\ReactUiAsset;
+use vishuB\react\ReactAsset;
+use vishuB\react\ReactUiAsset;
 use Babel\Transpiler;
 use \V8JsException;
 
@@ -17,7 +17,7 @@ use \V8JsException;
  * Class ReactRenderer - yii2 widget to server-side react rendering
  * and implementing it on client side.
  * This widget require V8JS PHP extension: http://php.net/v8js
- * @package bTokman\react\widgets
+ * @package vishuB\react\widgets
  */
 class ReactRenderer extends Widget
 {
