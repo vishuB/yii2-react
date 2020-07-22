@@ -1,18 +1,18 @@
 <?php
 
 
-namespace bTokman\react\widgets;
+namespace vishuB\react\widgets;
 
 use yii\web\View;
-use bTokman\react\ReactAsset;
-use bTokman\react\ReactUiAsset;
+use vishuB\react\ReactAsset;
+use vishuB\react\ReactUiAsset;
 
 
 /**
  * Class ReactRenderer - yii2 widget to server-side react rendering
  * and implementing it on client side.
  * This widget require V8JS PHP extension: http://php.net/v8js
- * @package bTokman\react\widgets
+ * @package vishuB\react\widgets
  */
 class ReactRawJsRenderer extends ReactRenderer
 {
