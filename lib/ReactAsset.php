@@ -1,5 +1,5 @@
 <?php
-namespace bTokman\react;
+namespace vishuB\react;
 
 use yii\web\AssetBundle;
 
