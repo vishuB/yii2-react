@@ -1,11 +1,11 @@
 <?php
-namespace bTokman\react;
+namespace vishuB\react;
 
 use yii\web\AssetBundle;
 
 /**
  * Class ReactUiAsset
- * @package bTokman\react
+ * @package vishuB\react
  */
 class ReactUiAsset extends AssetBundle
 {
@@ -20,6 +20,6 @@ class ReactUiAsset extends AssetBundle
     ];
 
     public $depends = [
-        'bTokman\react\ReactAsset'
+        'vishuB\react\ReactAsset'
     ];
 }
